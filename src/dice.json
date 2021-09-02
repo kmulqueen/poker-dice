@@ -1,42 +1,68 @@
 [
-    {
-        "ruleName": "Big Blind",
-        "description": "Player puts out 1 big blind regardless of their position.",
-        "icon": "Pile of chips"
-    },
-    {
-        "ruleName": "Can't Fold",
-        "description": "Player can't fold their hand until the river card unless they roll another \"Can't Fold\" before the river. They get to roll 1 time before each street starting after the flop. \n1) If a bet is made and the action goes to the player, the player has to call but only the amount of the small blind.\n2) Player has to put in a small blind every street until river regardless of if a bet is made on that street.",
-        "icon": "Hand cuffs"
-    },
-    {
-        "ruleName": "Bomb Pot",
-        "description": "All players put in 1 big blind. Rather than having any pre-flop action, the flop is dealt and then the game continues as normal.",
-        "icon": "Bomb"
-    },
-    {
-        "ruleName": "One Card Up",
-        "description": "1) All players play with one of their hole cards dealt facing up and remaining up for the rest of the round.\n2) Only player who rolls the dice has to show one of their hole cards.",
-        "icon": "One card face down, one card face up"
-    },
-    {
-        "ruleName": "Buddin Move",
-        "description": "Buddin and blind positions move by x seats.",
-        "icon": "Dealer buddin (maybe on wheels like it's moving?)"
-    },
-    {
-        "ruleName": "Trade Cards",
-        "description": "All players have to give one of their cards to the player to their left.",
-        "icon": "2 cards with a recycle sign or spinning arrows in between them."
-    },
-    {
-        "ruleName": "Sit Out",
-        "description": "Player sits this hand out.",
-        "icon": "Red X"
-    },
-    {
-        "ruleName": "Ante Up",
-        "description": "All players pay a small blind ante.",
-        "icon": "Small money bag"
-    }
+  {
+    "ruleName": "Big Blind",
+    "description": "Player puts out 1 big blind regardless of their position.",
+    "icon": "Pile of chips",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Can't Fold",
+    "description": "Player can't fold their hand until the river card unless they roll another \"Can't Fold\" before the river. They get to roll 1 time before each street starting after the flop. \n1) If a bet is made and the action goes to the player, the player has to call but only the amount of the small blind.\n2) Player has to put in a small blind every street until river regardless of if a bet is made on that street.",
+    "icon": "Hand cuffs",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Bomb Pot",
+    "description": "All players put in 1 big blind. Rather than having any pre-flop action, the flop is dealt and then the game continues as normal.",
+    "icon": "Bomb",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "One Card Up",
+    "description": "1) All players play with one of their hole cards dealt facing up and remaining up for the rest of the round.\n2) Only player who rolls the dice has to show one of their hole cards.",
+    "icon": "One card face down, one card face up",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Buddin Move",
+    "description": "Buddin and blind positions move by x seats.",
+    "icon": "Dealer buddin (maybe on wheels like it's moving?)",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Trade Cards",
+    "description": "All players have to give one of their cards to the player to their left.",
+    "icon": "Left arrow + card",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Sit Out",
+    "description": "Player sits this hand out.",
+    "icon": "Red X",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Ante Up",
+    "description": "All players pay a small blind ante.",
+    "icon": "Small money bag",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Extra Street",
+    "description": "One more community card will be dealt after the river.",
+    "icon": "Street w/ plus icon",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "Card Exchange",
+    "description": "Player gets to exchange 1 of their cards for another if they want to.",
+    "icon": "2 cards with a recycle sign or spinning arrows in between them.",
+    "timesRolled": 0
+  },
+  {
+    "ruleName": "1 Street",
+    "description": "The flop is the only street for the round.",
+    "icon": "3 cards face up",
+    "timesRolled": 0
+  }
 ]
