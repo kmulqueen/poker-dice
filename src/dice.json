@@ -64,5 +64,11 @@
     "description": "The flop is the only street for the round.",
     "icon": "3 cards face up",
     "timesRolled": 0
+  },
+  {
+    "ruleName": "Low Hand",
+    "description": "Player with the lowest hand wins.",
+    "icon": "Down arrow",
+    "timesRolled": 0
   }
 ]
